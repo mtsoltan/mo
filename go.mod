@@ -1,4 +1,4 @@
-module github.com/samber/mo
+module github.com/mtsoltan/mo
 
 go 1.18
 
